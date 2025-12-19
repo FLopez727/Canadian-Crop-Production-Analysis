@@ -45,11 +45,21 @@ Ordenar cultivos por rendimiento en Saskatchewan (2000)
 Convertir precios de Canola CAD → USD
 #
 ## 🔎 Key Insights / Hallazgos Clave
-Wheat / Trigo: Highest yield and production.
 
-Canola: Price volatility, occasionally > $350/MT.
+- **Wheat** remains the backbone of Canadian agriculture in terms of total production volume.  
+- **Barley** outperformed other crops in Saskatchewan in the year 2000, showing the highest average yield.  
+- Since 2000, **Barley in Alberta** has consistently achieved the highest average yield (≈3450 kg/ha), while Wheat dominates in scale.  
+- **Canola** reached farm prices above $350/MT, highlighting both its market potential and volatility.  
+- Exchange rate fluctuations (CAD/USD) directly influence competitiveness in international markets, especially exports to the US.  
+- The most recent data shows ~10 million hectares of Wheat harvested in Canada, confirming its scale in supply chains.  
 
-Exchange Rate / Tipo de cambio: Impacts competitiveness in US markets.
+- **El trigo** sigue siendo la columna vertebral de la agricultura canadiense en volumen total de producción.  
+- **La cebada** superó a otros cultivos en Saskatchewan en el año 2000, mostrando el mayor rendimiento promedio.  
+- Desde el año 2000, **la cebada en Alberta** ha mantenido el rendimiento promedio más alto (≈3450 kg/ha), mientras que el trigo domina en escala.  
+- **La canola** alcanzó precios agrícolas superiores a $350/MT, reflejando tanto su potencial de mercado como su volatilidad.  
+- Las fluctuaciones del tipo de cambio (CAD/USD) influyen directamente en la competitividad internacional, especialmente en exportaciones hacia EE.UU.  
+- Los datos más recientes muestran ~10 millones de hectáreas de trigo cosechadas en Canadá, confirmando su relevancia en las cadenas de suministro.  
+
 #
 ## 📈 Visualizations / Visualizaciones
 Suggested charts / Gráficas sugeridas:
