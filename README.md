@@ -74,10 +74,11 @@ Dual-axis plot: Canola prices vs CAD/USD exchange rate
 #
 ## ✅ Conclusions / Conclusiones
 EN:  
-Canadian wheat dominates in production and yield, while Canola shows strong price volatility. Exchange rate fluctuations directly affect competitiveness in US supply chains.
+Canadian wheat dominates in production volume, while Barley leads in average yield since 2000. Canola shows strong price volatility, and exchange rate fluctuations directly affect competitiveness in US supply chains.
 
 ES:  
-El trigo canadiense domina en producción y rendimiento, mientras que la Canola muestra alta volatilidad de precios. Las fluctuaciones del tipo de cambio afectan directamente la competitividad en las cadenas de suministro hacia EE.UU.
+El trigo canadiense domina en volumen de producción, mientras que la cebada lidera en rendimiento promedio desde el año 2000. La canola muestra alta volatilidad de precios, y las fluctuaciones del tipo de cambio afectan directamente la competitividad en las cadenas de suministro hacia EE.UU.
+
 #
 ##👨‍💻 Authors / Autores
 Jeff Grossman
