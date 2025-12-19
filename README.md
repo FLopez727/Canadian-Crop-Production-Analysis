@@ -46,6 +46,7 @@ Convertir precios de Canola CAD → USD
 #
 ## 🔎 Key Insights / Hallazgos Clave
 
+**EN:**
 - **Wheat** remains the backbone of Canadian agriculture in terms of total production volume.  
 - **Barley** outperformed other crops in Saskatchewan in the year 2000, showing the highest average yield.  
 - Since 2000, **Barley in Alberta** has consistently achieved the highest average yield (≈3450 kg/ha), while Wheat dominates in scale.  
@@ -53,6 +54,7 @@ Convertir precios de Canola CAD → USD
 - Exchange rate fluctuations (CAD/USD) directly influence competitiveness in international markets, especially exports to the US.  
 - The most recent data shows ~10 million hectares of Wheat harvested in Canada, confirming its scale in supply chains.  
 
+**ES:**
 - **El trigo** sigue siendo la columna vertebral de la agricultura canadiense en volumen total de producción.  
 - **La cebada** superó a otros cultivos en Saskatchewan en el año 2000, mostrando el mayor rendimiento promedio.  
 - Desde el año 2000, **la cebada en Alberta** ha mantenido el rendimiento promedio más alto (≈3450 kg/ha), mientras que el trigo domina en escala.  
